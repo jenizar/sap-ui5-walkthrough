@@ -37,7 +37,11 @@ Note:
 - It automatically open your browser and add /webapp in the end of url https://jenizar-sapui5-walkthrough.herokuapp.com/webapp
 
 - It utilize nodejs buildpack
--  
+
+![alt text](https://github.com/jenizar/sap-ui5-walkthrough/blob/main/Screenshot/Screenshot%20from%202021-12-19%2015-18-09.png)
+
+![alt text](https://github.com/jenizar/sap-ui5-walkthrough/blob/main/Screenshot/Screenshot%20from%202021-12-19%2016-09-08.png)
+
 
 ![SAP UI5 YouTube Course/ Tutorial](https://user-images.githubusercontent.com/19891236/95460237-996b5c00-096c-11eb-9417-b15a384e098c.png)
 
