@@ -32,9 +32,9 @@ $ git push heroku HEAD:master
 
 Note:
 
-- jenizar-sapui5-walkthrough is name your apps in the url, example: https://jenizar-sapui5-walkthrough.herokuapp.com
+- jenizar-sapui5-walkthrough is name your apps in the url
 
-- It automatically open your browser and add /webapp in the end of url. e.g. https://jenizar-sapui5-walkthrough.herokuapp.com/webapp
+- It automatically open your browser and add /webapp in the end of url https://jenizar-sapui5-walkthrough.herokuapp.com/webapp
 
 - It utilize nodejs buildpack
 -  
