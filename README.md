@@ -57,7 +57,7 @@ References:
 2. https://github.com/jenizar/SAP-Fiori-Worklist-Template
 
 3. https://github.com/jenizar/heroku-sapui5-mockd-internal
-4. 
+
 
 ![SAP UI5 YouTube Course/ Tutorial](https://user-images.githubusercontent.com/19891236/95460237-996b5c00-096c-11eb-9417-b15a384e098c.png)
 
