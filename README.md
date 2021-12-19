@@ -50,6 +50,14 @@ https://jenizar-sapui5-walkthrough.herokuapp.com/webapp
 
 ![alt text](https://github.com/jenizar/sap-ui5-walkthrough/blob/main/Screenshot/Screenshot%20from%202021-12-19%2016-09-08.png)
 
+References:
+
+1. https://github.com/jenizar/heroku-sapui5-covid19-tracker
+
+2. https://github.com/jenizar/SAP-Fiori-Worklist-Template
+
+3. https://github.com/jenizar/heroku-sapui5-mockd-internal
+4. 
 
 ![SAP UI5 YouTube Course/ Tutorial](https://user-images.githubusercontent.com/19891236/95460237-996b5c00-096c-11eb-9417-b15a384e098c.png)
 
