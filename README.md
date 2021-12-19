@@ -35,6 +35,8 @@ Note:
 - jenizar-sapui5-walkthrough is name your apps in the url, example: https://jenizar-sapui5-walkthrough.herokuapp.com
 
 - It automatically open your browser and add /webapp in the end of url. e.g. https://jenizar-sapui5-walkthrough.herokuapp.com/webapp
+
+- It utilize nodejs buildpack
 -  
 
 ![SAP UI5 YouTube Course/ Tutorial](https://user-images.githubusercontent.com/19891236/95460237-996b5c00-096c-11eb-9417-b15a384e098c.png)
