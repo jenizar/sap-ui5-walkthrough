@@ -1,3 +1,5 @@
+The tutorial assumes that you have a free Heroku account (Heroku CLI installed), and that you have Node.js and npm installed locally.
+
 ![SAP UI5 YouTube Course/ Tutorial](https://user-images.githubusercontent.com/19891236/95460237-996b5c00-096c-11eb-9417-b15a384e098c.png)
 
 # SAP UI5 walkthrough
